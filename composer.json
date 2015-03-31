@@ -1,0 +1,21 @@
+{
+  "name": "drak/native-session",
+  "description": "Native session handlers for Symfony2",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Drak",
+      "email": "drak@zikula.org"
+    }
+  ],
+  "autoload": {
+    "psr-0": {
+    "Drak": ""
+    }
+  },
+  "require": {
+  "php": ">=5.3.3",
+  "symfony/http-foundation": ">=2.1.0"
+  }
+}
